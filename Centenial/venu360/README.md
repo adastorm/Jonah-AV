@@ -9,14 +9,15 @@ To learn how to navigate the menu, refer to page 16 of the [Venu360 Manual](\Cen
 
 We are using the digital mixer with a sample rate of 48 kHz, so we do not need the analog device input.
 
-We have modified the setup 47 from the manual to suit our needs.
-
+We have modified the setup 47 from the manual to suit our needs, and will resemble most closeley to Application 4 in the manual
 
 
 For setup use:
-    The AFS mode will be set to speach/music mode (if used)
-
-
+    The AFS mode will be set to speech/music mode (if used)
+    Do we want to use the automatic gain control?
+    Compressor type?
+    Do we want to use the subharmonic synth module?
+    Do we want to lock out unauthorized access to the system features?
 
 
 ---
