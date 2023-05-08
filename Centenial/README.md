@@ -8,3 +8,4 @@ Here is some general information on the system
 
 Setup information for the [Venu360](/Centenial/venu360)
 
+Here is information on the [Crown Amplifiers](/Centenial/crown)
