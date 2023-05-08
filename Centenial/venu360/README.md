@@ -5,7 +5,7 @@ The Venu360 system is a **loudspeaker-management processor** that handles most o
 
 Please read the manual carefully before using the system. Do not use the configuration wizard or change the preset configuration without authorization.
 
-To learn how to navigate the menu, refer to page 16 of the [Venu360 Manual](Centenial/venu360/DriveRack_VENU360_Manual.pdf).
+To learn how to navigate the menu, refer to page 16 of the [Venu360 Manual](DriveRack_VENU360_Manual.pdf).
 
 We are using the digital mixer with a sample rate of 48 kHz, so we do not need the analog device input.
 
@@ -28,12 +28,12 @@ In the case that files are deleted off the internet, I have backed up the files 
 
 Backups of software
 
-- [Venue360 Windows App](\Centenial\venu360\VENU360.exe)
+- [Venue360 Windows App](VENU360.exe)
 
-- [Venu Update Installer](\Centenial\venu360\\VenuUpdateInstaller.exe)
+- [Venu Update Installer](VenuUpdateInstaller.exe)
 
 Backups of manuals
 
-- [Quickstart Guide](\Centenial\venu360\VENU360_Quick_Start.pdf)
+- [Quickstart Guide](VENU360_Quick_Start.pdf)
 
-- [Venu360 Manual](\Centenial\venu360\DriveRack_VENU360_Manual.pdf)
+- [Venu360 Manual](\DriveRack_VENU360_Manual.pdf)
