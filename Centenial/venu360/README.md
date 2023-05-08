@@ -13,11 +13,11 @@ We have modified the setup 47 from the manual to suit our needs, and will resemb
 
 
 For setup use:
-    The AFS mode will be set to speech/music mode (if used)
-    Do we want to use the automatic gain control?
-    Compressor type?
-    Do we want to use the subharmonic synth module?
-    Do we want to lock out unauthorized access to the system features?
+   - The AFS mode will be set to speech/music mode (if used)
+   - Do we want to use the automatic gain control?
+   - Compressor type?
+   - Do we want to use the subharmonic synth module?
+   - Do we want to lock out unauthorized access to the system features?
 
 
 ---
