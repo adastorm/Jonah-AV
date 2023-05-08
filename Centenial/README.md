@@ -6,7 +6,7 @@
 
 Here is some general information on the system
 
-Setup information for the [Venu360](/venu360)
+Setup information for the [Venu360](/Centenial/venu360)
 
 ```flowchart
 st=>start: Inputs
