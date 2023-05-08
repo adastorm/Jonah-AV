@@ -1,5 +1,6 @@
-# Crown Audio Amplifiers
-
+# Crown Audio 
+![](XTi_2002.png)
+---
 Centenial contains the following amplifiers
 
 - [XTi 2002 | Crown Audio - Professional Power Amplifiers](https://www.crownaudio.com/en/products/xti-2002)
