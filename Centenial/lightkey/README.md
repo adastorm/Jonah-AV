@@ -1,5 +1,5 @@
 # Lightkey Software
-![Lightkey Logo](/path/to/lightkey_logo.png)
+<img src = "Lightkey.png" width="50%" height = "50%">
 ---
 
 The Lightkey software is a powerful lighting control solution that allows you to create stunning lighting designs and control your lighting fixtures with ease. Whether you're a professional lighting designer or a beginner, Lightkey provides intuitive tools and a user-friendly interface to bring your lighting vision to life.
