@@ -16,7 +16,7 @@ The ATEM Mini Pro offers the following key features:
 ## Setup and Configuration
 To set up and configure your ATEM Mini Pro, follow these steps:
 
-1. Connect your cameras, video sources, and audio sources to the ATEM Mini Pro using HDMI cables and audio connectors. To get audio from the SQ-5 onto the ATEM, use two adapters out of a sterio AUX mix
+1. Connect your cameras, video sources, and audio sources to the ATEM Mini Pro using HDMI cables and audio connectors. To get audio from the SQ-5 onto the ATEM, use two adapters out of a stereo AUX mix
 2. Connect the ATEM Mini Pro to your computer or network using the Ethernet port.
 3. Install the ATEM Software Control on your computer to access advanced settings and controls.
 4. Configure your streaming settings, audio levels, and video transitions according to your production requirements.
@@ -24,4 +24,6 @@ To set up and configure your ATEM Mini Pro, follow these steps:
 
 ## Software Control
 The ATEM Software Control provides a comprehensive interface to control and monitor your ATEM Mini Pro. It allows you to access advanced settings, customize macros, and manage your live production workflow. You can download the ATEM Software Control from the [Blackmagic Design website](https://www.blackmagicdesign.com).
+
+A note to mention is that the software is not required to record and stream, this is just a visual interface for the ATEM to better change settings. 
 
