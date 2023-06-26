@@ -6,6 +6,10 @@
 
 The Lightkey software is a powerful lighting control solution that allows you to create stunning lighting designs and control your lighting fixtures with ease. Whether you're a professional lighting designer or a beginner, Lightkey provides intuitive tools and a user-friendly interface to bring your lighting vision to life.
 
+## Preset Files
+Here you can find the centenial preset file created by me.
+
+
 ## Installation
 To install Lightkey, follow these steps:
 
